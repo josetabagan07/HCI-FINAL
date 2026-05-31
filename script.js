@@ -10,7 +10,7 @@
             { id: 9, name: "Compound V Cola", price: 24.99, category: "Drinks", img: "compoundcola.jpg" },
             { id: 10, name: "AliSmoothie", price: 39.99, category: "Drinks", img: "AliSmoothie.jpg" },
             { id: 11, name: "Cedie Coffee", price: 34.99, category: "Drinks", img: "CedieCoffee.jpg" },
-            { id: 12, name: "Water", price: 19.50, category: "Drinks", img: "Water.jpg" }
+            { id: 12, name: "Water", price: 19.50, category: "Drinks", img: "water.jpg" }
         ];
 
         let currentCategory = 'All';
