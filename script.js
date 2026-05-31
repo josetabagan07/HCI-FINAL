@@ -1,16 +1,16 @@
  // Product Database
         const products = [
             { id: 1, name: "Fried Chicken /w Rice", price: 79.99, category: "Rice Meals", img: "FriedChicken.jpg" },
-            { id: 2, name: "Chicken Adobo /w Rice", price: 89.99, category: "Rice Meals", img: "products/adobo.jpg" },
-            { id: 3, name: "Beef Tapa /w Rice", price: 99.99, category: "Rice Meals", img: "products/beeftapa.jpg" },
-            { id: 4, name: "Pork Sisig /w Rice", price: 99.99, category: "Rice Meals", img: "products/PorkSisig.jpg" },
-            { id: 5, name: "Denise Plushie Fries", price: 24.99, category: "Snacks", img: "products/FrenchFries.jpg" },
-            { id: 6, name: "TuRon", price: 19.99, category: "Snacks", img: "products/turon.jpg" },
-            { id: 8, name: "Joselito Onion Rings", price: 19.50, category: "Snacks", img: "products/onionrings.jpg" },
-            { id: 9, name: "Compound V Cola", price: 24.99, category: "Drinks", img: "products/compoundcola.jpg" },
-            { id: 10, name: "AliSmoothie", price: 39.99, category: "Drinks", img: "products/AliSmoothie.jpg" },
-            { id: 11, name: "Cedie Coffee", price: 34.99, category: "Drinks", img: "products/CedieCoffee.jpg" },
-            { id: 12, name: "Water", price: 19.50, category: "Drinks", img: "products/Water.jpg" }
+            { id: 2, name: "Chicken Adobo /w Rice", price: 89.99, category: "Rice Meals", img: "adobo.jpg" },
+            { id: 3, name: "Beef Tapa /w Rice", price: 99.99, category: "Rice Meals", img: "beeftapa.jpg" },
+            { id: 4, name: "Pork Sisig /w Rice", price: 99.99, category: "Rice Meals", img: "PorkSisig.jpg" },
+            { id: 5, name: "Denise Plushie Fries", price: 24.99, category: "Snacks", img: "FrenchFries.jpg" },
+            { id: 6, name: "TuRon", price: 19.99, category: "Snacks", img: "turon.jpg" },
+            { id: 8, name: "Joselito Onion Rings", price: 19.50, category: "Snacks", img: "onionrings.jpg" },
+            { id: 9, name: "Compound V Cola", price: 24.99, category: "Drinks", img: "compoundcola.jpg" },
+            { id: 10, name: "AliSmoothie", price: 39.99, category: "Drinks", img: "AliSmoothie.jpg" },
+            { id: 11, name: "Cedie Coffee", price: 34.99, category: "Drinks", img: "CedieCoffee.jpg" },
+            { id: 12, name: "Water", price: 19.50, category: "Drinks", img: "Water.jpg" }
         ];
 
         let currentCategory = 'All';
