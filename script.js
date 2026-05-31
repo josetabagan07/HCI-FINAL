@@ -4,7 +4,7 @@
             { id: 2, name: "Chicken Adobo /w Rice", price: 89.99, category: "Rice Meals", img: "adobo.jpg" },
             { id: 3, name: "Beef Tapa /w Rice", price: 99.99, category: "Rice Meals", img: "beeftapa.jpg" },
             { id: 4, name: "Pork Sisig /w Rice", price: 99.99, category: "Rice Meals", img: "PorkSisig.jpg" },
-            { id: 5, name: "Denise Plushie Fries", price: 24.99, category: "Snacks", img: "FrenchFries.jpg" },
+            { id: 5, name: "Denise Plushie Fries", price: 24.99, category: "Snacks", img: "FrenchFries.png" },
             { id: 6, name: "TuRon", price: 19.99, category: "Snacks", img: "turon.jpg" },
             { id: 8, name: "Joselito Onion Rings", price: 19.50, category: "Snacks", img: "onionrings.jpg" },
             { id: 9, name: "Compound V Cola", price: 24.99, category: "Drinks", img: "compoundcola.jpg" },
