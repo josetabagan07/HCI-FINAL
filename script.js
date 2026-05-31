@@ -1,6 +1,6 @@
  // Product Database
         const products = [
-            { id: 1, name: "Fried Chicken /w Rice", price: 79.99, category: "Rice Meals", img: "products/FriedChicken.jpg" },
+            { id: 1, name: "Fried Chicken /w Rice", price: 79.99, category: "Rice Meals", img: "FriedChicken.jpg" },
             { id: 2, name: "Chicken Adobo /w Rice", price: 89.99, category: "Rice Meals", img: "products/adobo.jpg" },
             { id: 3, name: "Beef Tapa /w Rice", price: 99.99, category: "Rice Meals", img: "products/beeftapa.jpg" },
             { id: 4, name: "Pork Sisig /w Rice", price: 99.99, category: "Rice Meals", img: "products/PorkSisig.jpg" },
